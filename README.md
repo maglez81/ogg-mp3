@@ -13,8 +13,8 @@ This is a simple Python script that allows users to convert audio files from the
 1. **Clone the repository**
    
    ```bash
-   git clone <YOUR_REPOSITORY_LINK>
-   cd <YOUR_REPOSITORY_DIRECTORY>
+   git clonegit@github.com:maglez81/ogg-mp3.git
+   cd ogg-mp3
    ```
 
 2. **Setting up a virtual environment**
@@ -32,7 +32,6 @@ This is a simple Python script that allows users to convert audio files from the
    pip install -r requirements.txt
    ```
 
-   Note: If you haven't created a `requirements.txt` file yet, you can generate it using `pip freeze > requirements.txt`.
 
 4. **Ensure `ffmpeg` is installed**
 
