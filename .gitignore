@@ -1,0 +1,11 @@
+# Virtual Environment directory
+myenv/
+
+# Audio test files (both .ogg and .mp3)
+*.ogg
+*.mp3
+
+# Hidden files (dotfiles) except .gitignore itself
+.*
+!.gitignore
+
