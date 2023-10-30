@@ -13,7 +13,7 @@ This is a simple Python script that allows users to convert audio files from the
 1. **Clone the repository**
    
    ```bash
-   git clonegit@github.com:maglez81/ogg-mp3.git
+   git clone git@github.com:maglez81/ogg-mp3.git
    cd ogg-mp3
    ```
 
